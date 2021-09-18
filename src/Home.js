@@ -1,7 +1,7 @@
 import {BrowserRouter, Route, Link, Switch} from "react-router-dom";
 import About from "./About";
 import Posts from "./Posts";
-import { Button, Navbar } from 'react-bootstrap';
+import { Navbar } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
