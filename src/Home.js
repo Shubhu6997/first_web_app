@@ -23,7 +23,7 @@ function Home(){
         </Navbar>
     </div>
             <p>Home Page</p>
-         <img src = ""/>
+       
     </>
     )
 }
